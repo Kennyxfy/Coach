@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="contact_person" label="Contact Person" language="en" table="x_achin_coach_incident">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>contact_person</element>
+            <help/>
+            <hint/>
+            <label>Contact Person</label>
+            <language>en</language>
+            <name>x_achin_coach_incident</name>
+            <plural>Contact Persons</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 07:13:24</sys_created_on>
+            <sys_id>970b7c62db8adf00e3699c18db9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Contact Person</sys_name>
+            <sys_package display_value="Coach" source="x_achin_coach">5870702edb4adf00e3699c18db961943</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Coach">5870702edb4adf00e3699c18db961943</sys_scope>
+            <sys_update_name>sys_documentation_x_achin_coach_incident_contact_person_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-16 07:13:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
