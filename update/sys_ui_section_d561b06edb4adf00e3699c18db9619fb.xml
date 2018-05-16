@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>bc0d7ca2db8adf00e3699c18db96190b</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>0cee3ce2db8adf00e3699c18db961990</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>sog_ims_ticket_no</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>300d7ca2db8adf00e3699c18db96190c</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>8cee3ce2db8adf00e3699c18db961990</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>contact_person</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>b00d7ca2db8adf00e3699c18db96190c</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>00ee3ce2db8adf00e3699c18db961991</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>contact_phone</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>340d7ca2db8adf00e3699c18db96190c</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>80ee3ce2db8adf00e3699c18db961991</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>caller_id</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>b40d7ca2db8adf00e3699c18db96190c</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>04ee3ce2db8adf00e3699c18db961991</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>location</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>380d7ca2db8adf00e3699c18db96190c</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>84ee3ce2db8adf00e3699c18db961991</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>store_assets</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>b80d7ca2db8adf00e3699c18db96190c</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>08ee3ce2db8adf00e3699c18db961991</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>assignment_group</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>3c0d7ca2db8adf00e3699c18db96190c</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>88ee3ce2db8adf00e3699c18db961991</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>assigned_to</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>bc0d7ca2db8adf00e3699c18db96190c</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>0cee3ce2db8adf00e3699c18db961991</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>.split</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>300d7ca2db8adf00e3699c18db96190d</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>8cee3ce2db8adf00e3699c18db961991</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -145,13 +145,13 @@
             <element>contact_type</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>b00d7ca2db8adf00e3699c18db96190d</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>00ee3ce2db8adf00e3699c18db961992</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -159,13 +159,13 @@
             <element>state</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>340d7ca2db8adf00e3699c18db96190d</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>80ee3ce2db8adf00e3699c18db961992</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -173,13 +173,13 @@
             <element>impact</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>b40d7ca2db8adf00e3699c18db96190d</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>04ee3ce2db8adf00e3699c18db961992</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -187,13 +187,13 @@
             <element>urgency</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>380d7ca2db8adf00e3699c18db96190d</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>84ee3ce2db8adf00e3699c18db961992</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -201,13 +201,13 @@
             <element>priority</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>b80d7ca2db8adf00e3699c18db96190d</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>08ee3ce2db8adf00e3699c18db961992</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -215,13 +215,13 @@
             <element>on_hold_reason</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>3c0d7ca2db8adf00e3699c18db96190d</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>88ee3ce2db8adf00e3699c18db961992</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -229,13 +229,13 @@
             <element>owner</element>
             <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>bc0d7ca2db8adf00e3699c18db96190d</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>0cee3ce2db8adf00e3699c18db961992</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -243,13 +243,13 @@
             <element>category_1</element>
             <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>300d7ca2db8adf00e3699c18db96190e</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>8cee3ce2db8adf00e3699c18db961992</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -257,13 +257,13 @@
             <element>category_2</element>
             <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>b00d7ca2db8adf00e3699c18db96190e</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>00ee3ce2db8adf00e3699c18db961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -271,15 +271,183 @@
             <element>category_3</element>
             <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-05-16 07:21:58</sys_created_on>
-            <sys_id>340d7ca2db8adf00e3699c18db96190e</sys_id>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>80ee3ce2db8adf00e3699c18db961993</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-05-16 07:21:58</sys_updated_on>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>04ee3ce2db8adf00e3699c18db961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>84ee3ce2db8adf00e3699c18db961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent_incident</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>08ee3ce2db8adf00e3699c18db961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>kb_no</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>88ee3ce2db8adf00e3699c18db961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>knowledge</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>0cee3ce2db8adf00e3699c18db961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>8cee3ce2db8adf00e3699c18db961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>child_incidents</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>00ee3ce2db8adf00e3699c18db961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>original_token</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>80ee3ce2db8adf00e3699c18db961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>04ee3ce2db8adf00e3699c18db961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>84ee3ce2db8adf00e3699c18db961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>08ee3ce2db8adf00e3699c18db961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-05-16 07:30:06</sys_created_on>
+            <sys_id>88ee3ce2db8adf00e3699c18db961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_achin_coach_incident" sys_domain="global" view="Default view">d561b06edb4adf00e3699c18db9619fb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-05-16 07:30:06</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>

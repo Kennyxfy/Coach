@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Coach Incident" max_length="40" name="x_achin_coach_incident" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Additional Token" max_length="40" name="additional_token" type="string">
+            <choice>
+                <element label="1" sequence="0" value="1"/>
+                <element label="2" sequence="1" value="2"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="2000" name="address" type="string"/>
         <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
         <element label="Assignment group" max_length="32" name="assignment_group" reference="sys_user_group" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Brand" max_length="40" name="brand" type="string"/>
         <element label="Caller" max_length="32" name="caller_id" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Category 1" max_length="40" name="category_1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Category 2" max_length="40" name="category_2" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Category 3" max_length="40" name="category_3" type="string"/>
+        <element default="0" label="Child Incidents" max_length="40" name="child_incidents" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="City" max_length="40" name="city" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Contact Person" max_length="40" name="contact_person" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Contact Phone" max_length="40" name="contact_phone" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Contact type" max_length="40" name="contact_type" type="string">
@@ -17,11 +27,20 @@
                 <element label="Self-Service" sequence="3" value="4"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="4000" name="description" type="string"/>
         <element choice="1" label="Impact" max_length="40" name="impact" type="integer">
             <choice>
                 <element label="1-High" sequence="0" value="1"/>
                 <element label="2-Medium" sequence="1" value="2"/>
                 <element label="3-Low" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="KB No." max_length="40" name="kb_no" type="string"/>
+        <element label="Knowledge" max_length="40" name="knowledge" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="L2 Approval" max_length="40" name="l2_approbal" type="string">
+            <choice>
+                <element label="Y" sequence="0" value="1"/>
+                <element label="N" sequence="1" value="2"/>
             </choice>
         </element>
         <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
@@ -38,7 +57,9 @@
                 <element label="8-Pending by Tapestry other support team" sequence="7" value="8"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Original Token" max_length="40" name="original_token" type="string"/>
         <element label="Owner" max_length="32" name="owner" reference="sys_user_group" type="reference"/>
+        <element label="Parent Incident" max_length="32" name="parent_incident" reference="x_achin_coach_incident" type="reference"/>
         <element choice="1" label="Priority" max_length="40" name="priority" type="integer">
             <choice>
                 <element label="1-Critical" sequence="0" value="1"/>
@@ -48,6 +69,8 @@
                 <element label="5-Planning" sequence="4" value="5"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" label="Region" max_length="40" name="region" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="160" name="short_description" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="SOG IMS Ticket No." max_length="40" name="sog_ims_ticket_no" type="string"/>
         <element choice="1" default="1" label="State" max_length="40" name="state" type="integer">
             <choice>
@@ -71,18 +94,21 @@
             <element name="owner"/>
         </index>
         <index name="index2">
-            <element name="assignment_group"/>
+            <element name="parent_incident"/>
         </index>
         <index name="index3">
-            <element name="caller_id"/>
+            <element name="assignment_group"/>
         </index>
         <index name="index4">
-            <element name="store_assets"/>
+            <element name="caller_id"/>
         </index>
         <index name="index5">
-            <element name="location"/>
+            <element name="store_assets"/>
         </index>
         <index name="index6">
+            <element name="location"/>
+        </index>
+        <index name="index7">
             <element name="assigned_to"/>
         </index>
     </element>
